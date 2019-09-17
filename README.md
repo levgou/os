@@ -1,4 +1,5 @@
 # os
+Theoretical and paractical course - practical assignments are based on MIT's XV6 operation system.
 
 ## General Syllabus
 1. Introduction: History of operating systems, components of an OS, architecture, I/O interrupts and system calls, OS commands.
